@@ -42,7 +42,7 @@ function createPost() {
 
     //зображення статусу коментаря
     let likeImg = document.createElement('img');
-    likeImg.src = './assets/images/like.jpg';
+    likeImg.src = './assets/images/like.png';
     likeImg.width = '14';
     likeImg.height = '14';
     statusSpan.appendChild(likeImg);
